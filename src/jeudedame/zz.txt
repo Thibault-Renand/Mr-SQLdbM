@@ -1,0 +1,1 @@
+gcc main_jdd.c mode1.c digraph.c utils.c testdb.c -lSDL2 -lSDL2_ttf
